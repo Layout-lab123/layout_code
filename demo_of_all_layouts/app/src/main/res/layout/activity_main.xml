@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/linearButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Linear Layout" />
+
+    <Button
+        android:id="@+id/relativeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Relative Layout" />
+
+    <Button
+        android:id="@+id/constraintButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Constraint Layout" />
+
+    <Button
+        android:id="@+id/tableButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Table Layout" />
+
+    <Button
+        android:id="@+id/frameButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Frame Layout" />
+
+    <Button
+        android:id="@+id/listButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List View" />
+
+    <Button
+        android:id="@+id/gridButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grid View" />
+
+    <Button
+        android:id="@+id/absoluteButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Absolute Layout" />
+
+    <Button
+        android:id="@+id/webButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Web View" />
+
+    <Button
+        android:id="@+id/scrollButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scroll View" />
+</LinearLayout>
